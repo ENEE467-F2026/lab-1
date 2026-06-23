@@ -1,4 +1,4 @@
-# ENEE 467 Fall 2025: Robotics Project Laboratory
+# ENEE 467 Fall 2026: Robotics Project Laboratory
 ## Lab 1: Spatial Math and Rigid Body Transformations
 
 This repository contains a Docker container for the first lab as well as the necessary code templates for completing the exercises.
